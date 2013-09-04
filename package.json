@@ -1,0 +1,7 @@
+{
+  "repo": "sublime-ember-script",
+  "name": "EmberScript syntax for Sublime Text 2/3",
+  "description": "[EmberScript](http://emberscript.com) syntax definition bases on [Better CoffeeScript](https://github.com/aponxi/sublime-better-coffeescript) package by @aponxi",
+  "author": "Alex Ulianytskyi",
+  "homepage": "https://github.com/asux/sublime-ember-script"
+}
