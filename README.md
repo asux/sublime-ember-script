@@ -1,7 +1,7 @@
 EmberScript syntax for Sublime Text 2/3
 =======================================
 
-Based on CoffeeScript syntax file grabbed from [Better CoffeeScript](https://github.com/aponxi/sublime-better-coffeescript) package by @aponxi.
+Based on CoffeeScript syntax file grabbed from [Better CoffeeScript](https://github.com/aponxi/sublime-better-coffeescript) package by [@aponxi](https://github.com/aponxi).
 
 Contribution
 ------------
@@ -15,4 +15,4 @@ Feel free to contribute and post issues!
 Thanks
 ------
 
-Thanks @aponxi for CoffeeScript language file.
+Thanks [@aponxi](https://github.com/aponxi) for CoffeeScript language file.
